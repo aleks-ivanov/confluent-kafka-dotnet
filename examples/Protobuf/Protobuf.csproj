@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <!-- distribution of protoc -->
-    <PackageReference Include="Grpc.Tools" Version="1.16.0" />
+    <PackageReference Include="Grpc.Tools" Version="2.36.1" />
   </ItemGroup>
 
 </Project>
